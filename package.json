@@ -1,0 +1,16 @@
+{
+  "name": "monbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
